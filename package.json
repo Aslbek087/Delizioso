@@ -4,6 +4,21 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "dev":"npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aslbek-Coder/Delizioso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aslbek-Coder/Delizioso/issues"
+  },
+  "homepage": "https://github.com/Aslbek-Coder/Delizioso#readme",
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
